@@ -22,13 +22,25 @@ function camelCase(str) {
     calendar.method(ICalCalendarMethod.REQUEST)
 
     for (const event of events) {
+        const url = eventUrl + event.urlSlug
+        const description = event.summary.trim().replace(/(\S)\n(\S)/g, "$1\n\n$2") + "\n\n" + url
+        let location
+
+        if (event.settingDetails[0].setting == 'virtual') {
+            location = 'Online'
+        } else if (event.settingDetails[0].details.address) {
+            location = event.settingDetails[0].details.address
+        } else {
+            location = camelCase(event.settingDetails[0].details.location.id)
+        }
+
         calendar.createEvent({
             start: new Date(event.startWithTimeZone),
             end: new Date(event.endWithTimeZone),
             summary: event.title.trim(),
-            description: event.summary.trim(),
-            location: event.settingDetails[0].setting == 'virtual' ? 'Online' : (event.settingDetails[0].details.address ?? camelCase(event.settingDetails[0].details.location.id)),
-            url: eventUrl + event.urlSlug,
+            description,
+            location,
+            url,
             categories: [{name: camelCase(event.type)}],
             created: new Date(event.createdDate),
             lastModified: new Date(event.modifiedDate),
