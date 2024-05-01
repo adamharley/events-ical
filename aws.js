@@ -20,7 +20,7 @@ function camelCase(str) {
 
     const calendar = ical({name: 'AWS UK & Ireland'})
     calendar.method(ICalCalendarMethod.REQUEST)
-console.log(events)
+
     for (const event of events) {
         calendar.createEvent({
             start: new Date(event.startWithTimeZone),
@@ -43,6 +43,6 @@ console.log(events)
             }
         })
     }
-console.log(calendar.toString())
+
     await writeFile('webroot/aws.ics', calendar.toString())
 })()
