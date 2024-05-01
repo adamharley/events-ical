@@ -14,14 +14,13 @@ function camelCase(str) {
         fetch(endpointUrl + 'session')
     ])
     const json = await Promise.all(responses.map(response => response.json()))
-    console.log(json)
     const events = []
         .concat(json[0].future, json[0].past, json[1].future, json[1].past)
         .filter(event => !event.language && event.status == 'live')
 
     const calendar = ical({name: 'AWS UK & Ireland'})
     calendar.method(ICalCalendarMethod.REQUEST)
-
+console.log(events)
     for (const event of events) {
         calendar.createEvent({
             start: new Date(event.startWithTimeZone),
@@ -44,6 +43,6 @@ function camelCase(str) {
             }
         })
     }
-
+console.log(calendar.toString())
     await writeFile('webroot/aws.ics', calendar.toString())
 })()
