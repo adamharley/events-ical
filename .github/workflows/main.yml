@@ -29,8 +29,10 @@ jobs:
           node-version: 20
       - name: Install
         run: npm ci
-      - name: Generate HTML
-        run: node aws && node the
+      - name: Generate AWS
+        run: node aws
+      - name: Generate THE
+        run: node the
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
