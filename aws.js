@@ -2,7 +2,7 @@ import ical, {ICalCalendarMethod} from 'ical-generator'
 import {writeFile} from 'node:fs/promises'
 
 const endpointUrl = 'https://aws-experience.com/emea/uki/api/'
-const eventUrl = 'https://aws-experience.com/emea/uki/xe/'
+const eventUrl = 'https://aws-experience.com/emea/uki/e/'
 
 function camelCase(str) {
     return str.charAt(0).toUpperCase() + str.replace(/([a-z])([A-Z])/g, '$1 $2').slice(1)
