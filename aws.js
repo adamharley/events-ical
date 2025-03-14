@@ -30,7 +30,7 @@ function camelCase(str) {
             location = 'Online'
         } else if (event.settingDetails[0].details.address) {
             location = event.settingDetails[0].details.address
-        } else {
+        } else if (event.settingDetails[0].details.location && event.settingDetails[0].details.location.id) {
             location = camelCase(event.settingDetails[0].details.location.id)
         }
 
@@ -47,7 +47,7 @@ function camelCase(str) {
             id: event.id,
             x: {
                 "X-tags": event.tags.sort().join(', '),
-                "X-presenter": event.presenter.trim(),
+                "X-presenter": event.presenter ? event.presenter.trim() : '',
                 "X-audienceTypes": event.audienceTypes.sort().map(camelCase).join(', '),
                 "X-levels": event.levels ? event.levels.sort().join(', ') : '',
                 "X-setting": camelCase(event.settingDetails[0].setting),
