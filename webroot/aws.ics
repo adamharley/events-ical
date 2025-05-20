@@ -1,0 +1,707 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:AWS UK & Ireland
+X-WR-CALNAME:AWS UK & Ireland
+BEGIN:VEVENT
+UID:035e4723-97df-462c-8305-8ad76778ddd3
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250319T083000Z
+DTEND:20250319T103000Z
+SUMMARY:The Need for Speed - Fast track your migration journey
+LOCATION:London
+DESCRIPTION:This event will bring together industry experts to share insig
+ hts and strategies that will empower you to streamline your digital transf
+ ormation efforts\, optimise processes\, and accelerate your cloud migratio
+ n journey.\n\nhttps://aws-experience.com/emea/uki/e/035e4/the-need-for-spe
+ ed---fast-track-your-migration-journey
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/035e4/the-need-for-spe
+ ed---fast-track-your-migration-journey
+X-TAGS:
+X-PRESENTER:Matt Keable\, Head of Cloud Sales - Bytes | Simon Walker\, Dir
+ ector of Cloud - Bytes | Shaun Houghton\, Head of Technology - Vitality He
+ alth
+X-AUDIENCETYPES:Business
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:https://www.bytesevents.co.uk/the-need-for-speed/
+CREATED:20250303T123739Z
+LAST-MODIFIED:20250303T123739Z
+END:VEVENT
+BEGIN:VEVENT
+UID:20cb9273-7cbd-4de5-881d-0a148a5f7b1f
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250320T090000Z
+DTEND:20250320T163000Z
+SUMMARY:Mesh-AI Data & Symposium
+LOCATION:London
+DESCRIPTION:Join Mesh-AI in London on Thursday 20 March at the Data & AI S
+ ymposium and hear from industry leaders on their experiences navigating da
+ ta and AI transformation.\n\nhttps://aws-experience.com/emea/uki/e/20cb9/m
+ esh-ai-data--symposium
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/20cb9/mesh-ai-data--sy
+ mposium
+X-TAGS:
+X-PRESENTER:Schroders\, LSEG\, National Grid\, ENBW\, Energy Systems Catap
+ ult\, Northern Trust\, AWS\, Mesh-AI
+X-AUDIENCETYPES:Business
+X-LEVELS:100
+X-SETTING:Physical
+X-REGISTRATIONURL:https://www.mesh-ai.com/data-ai-symposium-2025
+CREATED:20250220T095816Z
+LAST-MODIFIED:20250220T095816Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca51467-f623-4281-a36a-afe5e48a4e86
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250326T090000Z
+DTEND:20250326T113000Z
+SUMMARY:The Need for Speed - Fast track your migration journey
+LOCATION:London
+DESCRIPTION:Cloud Bridge is hosting an exclusive event to unveil a clear r
+ oadmap for leveraging the latest technological advancements and equipping 
+ you with practical tools and strategies to speed up your cloud migration j
+ ourney.\n\nhttps://aws-experience.com/emea/uki/e/7ca51/the-need-for-speed-
+ --fast-track-your-migration-journey
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/7ca51/the-need-for-spe
+ ed---fast-track-your-migration-journey
+X-TAGS:
+X-PRESENTER:Tom Sargeant\, WW Storage GTM at AWS | Simon Walker\, CEO Clou
+ d Bridge | Adam Thornton\, CRO Cloud Bridge | Kirk Ryan\, Principal CSA & 
+ Office at CTOat NetApp
+X-AUDIENCETYPES:Business\, Technical
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:https://www.partners-programme.com/cloudbridge-need-for-
+ speed/
+CREATED:20250311T131548Z
+LAST-MODIFIED:20250311T131548Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3f25b329-2670-414d-9a8e-a4f648f42382
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250401T113000Z
+DTEND:20250401T170000Z
+SUMMARY:Full Throttle to AWS Excellence
+LOCATION:London
+DESCRIPTION:Join us for an exclusive event designed to help you optimise\,
+  secure\, and elevate your AWS environment. If you're already leveraging A
+ WS\, there’s a world of additional services that can enhance efficiency\
+ , reduce costs\, and drive greater value.\n\nhttps://aws-experience.com/em
+ ea/uki/e/3f25b/full-throttle-to-aws-excellence
+CATEGORIES:Meetup
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/3f25b/full-throttle-to
+ -aws-excellence
+X-TAGS:
+X-PRESENTER:Matthew Keable - Head of Cloud Sales\, Bytes | Simon Walker - 
+ Director of Cloud\, Bytes | Jamie Rhone\, Head of Infrastructure and Servi
+ ces\, Hotelplan
+X-AUDIENCETYPES:Business
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:https://www.bytes.co.uk/info/events/join-bytes-and-aws-f
+ 1-arcade-london
+CREATED:20250306T125019Z
+LAST-MODIFIED:20250306T154142Z
+END:VEVENT
+BEGIN:VEVENT
+UID:47a17671-c3b0-4c1e-97a0-0a3ddc4f0e50
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250430T070000Z
+DTEND:20250430T173000Z
+SUMMARY:AWS Summit London 2025
+LOCATION:London
+DESCRIPTION:Reserve your place at AWS Summit London 2025\, the UK's leadin
+ g one-day event showcasing the latest in cloud innovation.\n\nhttps://aws-
+ experience.com/emea/uki/e/47a17/aws-summit-london-2025
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/47a17/aws-summit-londo
+ n-2025
+X-TAGS:
+X-PRESENTER:
+X-AUDIENCETYPES:Business\, Technical
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:https://aws.amazon.com/events/summits/london/
+CREATED:20250221T144101Z
+LAST-MODIFIED:20250221T144257Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3f025493-9f3e-49ff-9429-51712925ed79
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250313T090000Z
+DTEND:20250313T180000Z
+SUMMARY:AWS AI and Data Conference
+DESCRIPTION:The AWS AI and Data Conference Ireland 2025 offers a complete\
+ , end-to-end experience where builders\, innovators\, and leaders come tog
+ ether to unlock new possibilities with generative AI\, predictive machine 
+ learning\, advanced data analytics\, and moder\n\nhttps://aws-experience.c
+ om/emea/uki/e/3f025/aws-ai-and-data-conference
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/3f025/aws-ai-and-data-
+ conference
+X-TAGS:
+X-PRESENTER:AWS
+X-AUDIENCETYPES:Business\, Technical
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:https://aws.amazon.com/uki/cloud-services/aws-events/ai-
+ and-data-conference/
+CREATED:20250114T142856Z
+LAST-MODIFIED:20250114T142922Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d7fffeea-e1da-42c7-9c57-7994ff6bc4c1
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250317T160000Z
+DTEND:20250317T190000Z
+SUMMARY:Innovating to deliver NHS Workforce Productivity & Improvement wit
+ h Partners
+LOCATION:60 Holborn Viaduct\, London\, EC1A 2FD
+DESCRIPTION:An AWS Health Tech Community Event. This event aims to explore
+  the opportunities for the HealthTech community and the NHS working in par
+ tnership to help address these challenges.\n\nhttps://aws-experience.com/e
+ mea/uki/e/d7fff/innovating-to-deliver-nhs-workforce-productivity--improvem
+ ent-with-partners
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/d7fff/innovating-to-de
+ liver-nhs-workforce-productivity--improvement-with-partners
+X-TAGS:healthcare
+X-PRESENTER:Wendy Parks\, Head of HealthTechs AWS | Ian Townend\, Deputy C
+ TO\, NHS England | Jim Barry\, Health Rota\, CEO | Paul Scandrett\, Direct
+ or of Healthcare\, RLDatix | Ben Wheeler\, Head of Cloud Engineering\, Col
+ ibri | James Wood\, Business Innovation and Improvements Lead\, 33N | Dr N
+ a’eem Ahmed\, CMO\, ImproveWell | Des Shanahan\, Workforce Management Le
+ ad\, AWS
+X-AUDIENCETYPES:Business
+X-LEVELS:100\, 200
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250311T092244Z
+LAST-MODIFIED:20250311T092244Z
+END:VEVENT
+BEGIN:VEVENT
+UID:47eba345-c82b-45f6-8a38-9297a360bfaf
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250318T180000Z
+DTEND:20250318T210000Z
+SUMMARY:Glow Forward: Workshop 3 - Your Money Mindset: Understand It\, Shi
+ ft It\, Own It
+LOCATION:60 Holborn Viaduct\, London\, EC1A 2FD
+DESCRIPTION:Objective: Reframe limiting beliefs about money\, embrace fina
+ ncial confidence\, and master negotiation skills.\n\nhttps://aws-experienc
+ e.com/emea/uki/e/47eba/glow-forward-workshop-3---strengthening-your-money-
+ mindset-for-negotiation-success
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/47eba/glow-forward-wor
+ kshop-3---strengthening-your-money-mindset-for-negotiation-success
+X-TAGS:
+X-PRESENTER:Jules Fernandes\, Brand Catalyst\, Shine Founder & Workshop Fa
+ cilitator | Sonia Ouarti\, Aida Coaching Founder\, Empowering Coach & Work
+ shop Facilitator
+X-AUDIENCETYPES:Business
+X-LEVELS:100
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250303T155111Z
+LAST-MODIFIED:20250303T155111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6ae4f4-b264-4e65-9508-d8f167e8d6da
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250319T210000Z
+DTEND:20250319T235900Z
+SUMMARY:AWS & Partners: Celebration Drinks following the UCISA Leadership 
+ Conference Awards 2025!
+LOCATION:Revolution\, Brighton\, 77 West Street\, BN1 2RA
+DESCRIPTION:AWS & Partners UCISA Networking Drinks\n\nhttps://aws-experien
+ ce.com/emea/uki/e/0f6ae/aws--partners-evening-drinks
+CATEGORIES:Meetup
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/0f6ae/aws--partners-ev
+ ening-drinks
+X-TAGS:
+X-PRESENTER:N/A
+X-AUDIENCETYPES:Business
+X-LEVELS:
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250313T132653Z
+LAST-MODIFIED:20250313T132653Z
+END:VEVENT
+BEGIN:VEVENT
+UID:63e85760-6647-41f0-bcf7-d6491dec5e3a
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250320T090000Z
+DTEND:20250320T100000Z
+SUMMARY:Q Developer Webinar Series
+LOCATION:Online
+DESCRIPTION:Optimize your AWS operations with GenAI and Amazon Q Developer
+ \n\nhttps://aws-experience.com/emea/uki/e/63e85/q-developer-webinar-series
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/63e85/q-developer-webi
+ nar-series
+X-TAGS:generative ai
+X-PRESENTER:Ozioma Uzoegwu\, Amit Dhingra
+X-AUDIENCETYPES:Technical
+X-LEVELS:300
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250224T103827Z
+LAST-MODIFIED:20250224T103827Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f05b0f09-d906-4d95-a5aa-d75fa56b0e19
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250320T100000Z
+DTEND:20250320T170000Z
+SUMMARY:Becoming a Public Sector Organisation of the Future with Amazon Co
+ nnect
+LOCATION:Amazon Manchester Office MAN11\, Hanover Building\, Corporation S
+ t\, Manchester M4 4GW\,
+DESCRIPTION:Join fellow citizen and customer services professionals for a 
+ day filled with ideas and inspiration\, to help you serve more demand\, im
+ prove experiences\, and meet citizens and customers where they are.\n\nhtt
+ ps://aws-experience.com/emea/uki/e/f05b0/becoming-a-public-sector-organisa
+ tion-of-the-future-with-conversational-ai-analytics-and
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/f05b0/becoming-a-publi
+ c-sector-organisation-of-the-future-with-conversational-ai-analytics-and
+X-TAGS:
+X-PRESENTER:Finlay Craen\, Solutions Architect
+X-AUDIENCETYPES:Technical
+X-LEVELS:100\, 200
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250226T102352Z
+LAST-MODIFIED:20250226T102352Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aef4f57e-cc81-47a2-b97e-6c890827c9ba
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250320T170000Z
+DTEND:20250320T180000Z
+SUMMARY:Q Developer Webinar Series
+LOCATION:Online
+DESCRIPTION:Optimize your AWS operations with GenAI and Amazon Q Developer
+ \n\nhttps://aws-experience.com/emea/uki/e/aef4f/q-developer-webinar-series
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/aef4f/q-developer-webi
+ nar-series
+X-TAGS:generative ai
+X-PRESENTER:Ozioma Uzoegwu\, Amit Dhingra
+X-AUDIENCETYPES:Technical
+X-LEVELS:300
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250224T104056Z
+LAST-MODIFIED:20250224T104056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:000d5a06-5a54-473e-b967-8e181ddfce13
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250325T090000Z
+DTEND:20250325T170000Z
+SUMMARY:AWS Generative AI Solutions LaunchPad
+LOCATION:60 Holborn Viaduct\, London\, EC1A 2FD
+DESCRIPTION:GenAI workshop to support creation of proof of concept.\n\nhtt
+ ps://aws-experience.com/emea/uki/e/000d5/aws-generative-ai-solutions-launc
+ hpad
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/000d5/aws-generative-a
+ i-solutions-launchpad
+X-TAGS:ai\, amazon bedrock\, drive innovation and growth\, generative ai\,
+  innovation\, isv
+X-PRESENTER:Steven Fung and Bruce McKee
+X-AUDIENCETYPES:Business\, Technical
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250122T113156Z
+LAST-MODIFIED:20250122T113156Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a2669aa5-ab14-4ae0-a4b4-2feccd6f3188
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250325T100000Z
+DTEND:20250325T110000Z
+SUMMARY:An Introduction to Resilience on AWS
+LOCATION:Online
+DESCRIPTION:This webinar addresses the critical challenge of maintaining a
+ lways-on applications in today's distributed cloud environments.\n\nhttps:
+ //aws-experience.com/emea/uki/e/a2669/an-introduction-to-resilience-on-aws
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/a2669/an-introduction-
+ to-resilience-on-aws
+X-TAGS:
+X-PRESENTER:Dean Layton-James\, Senior Solutions Architect\, AWS | Stephen
+  Glasgow\, Senior Partner Solutions Architect\, AWS | Etonia Suraki\, Solu
+ tions Architect\, AWS
+X-AUDIENCETYPES:Technical
+X-LEVELS:100\, 200
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250214T142959Z
+LAST-MODIFIED:20250214T142959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:94728ce8-a8cb-4678-b778-73924100f82e
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250327T090000Z
+DTEND:20250327T140000Z
+SUMMARY:Insurance Insights 2025 - Regulation\, Resilience and Innovation
+LOCATION:60 Holborn Viaduct\, London\, EC1A 2FD
+DESCRIPTION:Insurance symposium 2025 for leaders in the Insurance industry
+  with a focus on regulation\, resilience and innovation\n\nhttps://aws-exp
+ erience.com/emea/uki/e/94728/insurance-insights-2025---regulation-resilien
+ ce-and-innovation
+CATEGORIES:Meetup
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/94728/insurance-insigh
+ ts-2025---regulation-resilience-and-innovation
+X-TAGS:financial services\, generative ai\, resilience\, transformation
+X-PRESENTER:Michael Jefferson\, AWS’ Head of Financial Services Public P
+ olicy UK\, MEA & Switzerland | Orlando Fernández\, Senior Technical Speci
+ alist\, Recovery\, Resolution & Resilience Bank of England |Jonathan Allen
+ \, Director - Enterprise Strategist
+X-AUDIENCETYPES:Business
+X-LEVELS:100\, 200
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250313T140358Z
+LAST-MODIFIED:20250313T140358Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a42626d7-1d39-4870-aaa1-384114f6e9e2
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250403T090000Z
+DTEND:20250403T140000Z
+SUMMARY:Getting Started on AWS for UK Public Sector Organizations
+LOCATION:Online
+DESCRIPTION:Get started on AWS with a full-day immersion of presentations\
+ , demos and labs on foundational services\n\nhttps://aws-experience.com/em
+ ea/uki/e/a4262/getting-started-on-aws-for-uk-public-sector-organizations
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/a4262/getting-started-
+ on-aws-for-uk-public-sector-organizations
+X-TAGS:
+X-PRESENTER:Russell Bennett\, Solutions Architect
+X-AUDIENCETYPES:Technical
+X-LEVELS:100\, 200
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250307T141900Z
+LAST-MODIFIED:20250307T141900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4128b2-6e8b-48f7-8ff8-33871a2bdecd
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250403T123000Z
+DTEND:20250403T163000Z
+SUMMARY:Your Cloud Journey powered by the AWS Backbone
+LOCATION:60 Holborn Viaduct\, London\, EC1A 2FD
+DESCRIPTION:In our documentation\, we frequently describe the AWS Global N
+ etwork as “the most secure\, extensive\, and reliable global cloud infra
+ structure for your applications”. Sounds good\, right? But what does it 
+ mean?\n\nhttps://aws-experience.com/emea/uki/e/bf412/your-cloud-journey-po
+ wered-by-the-aws-backbone
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/bf412/your-cloud-journ
+ ey-powered-by-the-aws-backbone
+X-TAGS:amazon vpc\, aws direct connect\, aws transit gateway\, networking
+X-PRESENTER:Mevlit Mustafa (Sr. Networking Specialist SA\, AWS) | Adam Pal
+ mer (Principal Networking Specialist SA\, AWS) | Vladislav Nedosekin (Prin
+ cipal SA\, AWS) | Craig Hall (Security & Networking Specialist SA\, AWS)
+X-AUDIENCETYPES:Technical
+X-LEVELS:300
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250213T160723Z
+LAST-MODIFIED:20250213T160723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2955b0d8-eb4d-430d-ac91-cbd9862af981
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250408T170000Z
+DTEND:20250408T200000Z
+SUMMARY:Glow Forward: Workshop 4 - Present with Impact: Amplify Your Voice
+LOCATION:60 Holborn Viaduct\, London\, EC1A 2FD
+DESCRIPTION:Objective: Enhance your communication skills and presence to i
+ nspire and influence with confidence and authority.\n\nhttps://aws-experie
+ nce.com/emea/uki/e/2955b/glow-forward-workshop-4---elevating-your-voice-fo
+ r-impactful-presence
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/2955b/glow-forward-wor
+ kshop-4---elevating-your-voice-for-impactful-presence
+X-TAGS:
+X-PRESENTER:Jules Fernandes\, Brand Catalyst\, Shine Founder & Workshop Fa
+ cilitator | Sonia Ouarti\, Aida Coaching Founder\, Empowering Coach & Work
+ shop Facilitator
+X-AUDIENCETYPES:Business
+X-LEVELS:100
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250227T111233Z
+LAST-MODIFIED:20250227T111233Z
+END:VEVENT
+BEGIN:VEVENT
+UID:98ce3383-26fb-47c5-af8c-761a2817fe5b
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250410T123000Z
+DTEND:20250410T163000Z
+SUMMARY:Your Cloud Journey Powered by the AWS Backbone
+LOCATION:Amazon DUB14\, 5 Burlington Rd\, Dublin\, D04 HH21\, Republic of 
+ Ireland
+DESCRIPTION:In this session\, we'll embark on a deep exploration journey o
+ f the AWS Global Network. We'll dive deep in how this infrastructure works
+  and\, more importantly\, how it can drive and accelerate the achievement 
+ of your business and technology goals.\n\nhttps://aws-experience.com/emea/
+ uki/e/98ce3/your-cloud-journey-powered-by-the-aws-backbone
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/98ce3/your-cloud-journ
+ ey-powered-by-the-aws-backbone
+X-TAGS:amazon vpc\, architecture\, networking
+X-PRESENTER:Mevlit Mustafa (Senior Networking Specialist SA) | Azeem Ayaz 
+ (Senior Specialist TAM\, Networking) | Mritunjay Bhardwaj (Delivery Consul
+ tant)
+X-AUDIENCETYPES:Technical
+X-LEVELS:300
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250224T102805Z
+LAST-MODIFIED:20250224T102805Z
+END:VEVENT
+BEGIN:VEVENT
+UID:38fe9733-9777-4354-8f7b-68be0bbfa22e
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250415T090000Z
+DTEND:20250415T103000Z
+SUMMARY:Navigating VMware VM Migration Options
+LOCATION:Online
+DESCRIPTION:In response to Broadcom's VMware Cloud on AWS announcement\, j
+ oin VMware Migration Specialist Michael Vogt for an in-depth overview of m
+ igration options\, tools\, and best practices to help transition your VMwa
+ re workloads to AWS native services.\n\nhttps://aws-experience.com/emea/uk
+ i/e/38fe9/navigating-vmware-vm-migration-options
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/38fe9/navigating-vmwar
+ e-vm-migration-options
+X-TAGS:cloud migration
+X-PRESENTER:Michael Vogt\, Migration Specialist for VMware
+X-AUDIENCETYPES:Technical
+X-LEVELS:200
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250226T102458Z
+LAST-MODIFIED:20250226T102458Z
+END:VEVENT
+BEGIN:VEVENT
+UID:525bfb10-5511-4cd6-90a8-786eb71f050e
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250417T080000Z
+DTEND:20250417T140000Z
+SUMMARY:Beyond Physical Labs: Transforming Student Learning with AWS EUC
+LOCATION:1 Principal Place\, Worship Street\, Shoreditch\, London\, EC2A 2
+ FA
+DESCRIPTION:Beyond Physical Labs: Transforming Student Learning with AWS E
+ UC\n\nhttps://aws-experience.com/emea/uki/e/525bf/beyond-physical-labs-tra
+ nsforming-student-learning-with-aws-euc
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/525bf/beyond-physical-
+ labs-transforming-student-learning-with-aws-euc
+X-TAGS:
+X-PRESENTER:Andrew Proctor - AWS Higher Education Exec Lead | Ben Mowbray 
+ - AWS Public Sector EUC Lead | Nityanand Singh - AWS EUC Sr Solutions Arch
+ itect | Amit Singh - AWS Principal Product Manager for EUC | Corvus Lee 
+ – AWS Sr Solutions Architect AI/ML
+X-AUDIENCETYPES:Business
+X-LEVELS:200
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250221T102306Z
+LAST-MODIFIED:20250221T102306Z
+END:VEVENT
+BEGIN:VEVENT
+UID:85ab46a1-2898-4f76-9fd6-1a79e9bc3c7d
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250417T080000Z
+DTEND:20250417T090000Z
+SUMMARY:Q Developer Webinar Series
+LOCATION:Online
+DESCRIPTION:Q Developer: Advanced features\n\nhttps://aws-experience.com/e
+ mea/uki/e/85ab4/q-developer-webinar-series
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/85ab4/q-developer-webi
+ nar-series
+X-TAGS:
+X-PRESENTER:Chris Williams\, Matt Laver\, Amit Dhingra
+X-AUDIENCETYPES:Business
+X-LEVELS:300
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250312T101356Z
+LAST-MODIFIED:20250312T101356Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2610134c-ca41-49df-9ee8-cd918ea52e54
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250417T160000Z
+DTEND:20250417T170000Z
+SUMMARY:Q Developer Webinar Series
+LOCATION:Online
+DESCRIPTION:Q Developer: Advanced features\n\nhttps://aws-experience.com/e
+ mea/uki/e/26101/q-developer-webinar-series
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/26101/q-developer-webi
+ nar-series
+X-TAGS:
+X-PRESENTER:Chris Williams\, Matt Laver\, Amit Dhingra
+X-AUDIENCETYPES:Business
+X-LEVELS:300
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250312T101606Z
+LAST-MODIFIED:20250312T101606Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b1c6f68c-04e3-4655-9f64-01a3d26c1105
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250506T090000Z
+DTEND:20250506T140000Z
+SUMMARY:Getting Started on AWS for UK Public Sector Organizations
+LOCATION:Online
+DESCRIPTION:Get started on AWS with a full-day immersion of presentations\
+ , demos and labs on foundational services\n\nhttps://aws-experience.com/em
+ ea/uki/e/b1c6f/getting-started-on-aws-for-uk-public-sector-organizations
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/b1c6f/getting-started-
+ on-aws-for-uk-public-sector-organizations
+X-TAGS:
+X-PRESENTER:Russell Bennett\, Solutions Architect
+X-AUDIENCETYPES:Technical
+X-LEVELS:100\, 200
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250307T141939Z
+LAST-MODIFIED:20250307T141939Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6469101d-78ef-4b10-958f-48591cc83d6a
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250507T083000Z
+DTEND:20250507T153000Z
+SUMMARY:UK Public Sector Deep Racer Day
+LOCATION:Tobacco Dock\, Tobacco Quay\, Wapping Lane\, London\, E1W 2SF
+DESCRIPTION:UK Public Sector Deep Racer Day\n\nhttps://aws-experience.com/
+ emea/uki/e/64691/uk-public-sector-deep-racer-day
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/64691/uk-public-sector
+ -deep-racer-day
+X-TAGS:
+X-PRESENTER:AWS
+X-AUDIENCETYPES:Business\, Technical
+X-LEVELS:100\, 200\, 300\, 400
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250129T214051Z
+LAST-MODIFIED:20250129T214051Z
+END:VEVENT
+BEGIN:VEVENT
+UID:96a17402-f627-4b72-9526-72bb70258e94
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250515T090000Z
+DTEND:20250515T160000Z
+SUMMARY:Microsoft Workloads on AWS
+LOCATION:1 Principal Place\, London\, EC2A 2FA
+DESCRIPTION:Join our hands-on workshop to learn proven practices for deplo
+ ying and optimizing Windows Server and SQL Server workloads on AWS\, with 
+ interactive demonstrations and guided lab exercises that address common mi
+ gration challenges.\n\nhttps://aws-experience.com/emea/uki/e/96a17/microso
+ ft-workloads-on-aws
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/96a17/microsoft-worklo
+ ads-on-aws
+X-TAGS:
+X-PRESENTER:Darren Corcoran\, Microsoft Migrations Specialist
+X-AUDIENCETYPES:Technical
+X-LEVELS:100\, 200
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250214T144001Z
+LAST-MODIFIED:20250214T144001Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d5746a84-57ca-4389-a9b0-74b829b66d89
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250605T090000Z
+DTEND:20250605T140000Z
+SUMMARY:Getting Started on AWS for UK Public Sector Organizations
+LOCATION:Online
+DESCRIPTION:Get started on AWS with a full-day immersion of presentations\
+ , demos and labs on foundational services\n\nhttps://aws-experience.com/em
+ ea/uki/e/d5746/getting-started-on-aws-for-uk-public-sector-organizations
+CATEGORIES:Hands On Workshop
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/d5746/getting-started-
+ on-aws-for-uk-public-sector-organizations
+X-TAGS:
+X-PRESENTER:Russell Bennett\, Solutions Architect
+X-AUDIENCETYPES:Technical
+X-LEVELS:100\, 200
+X-SETTING:Virtual
+X-REGISTRATIONURL:
+CREATED:20250307T142011Z
+LAST-MODIFIED:20250307T142011Z
+END:VEVENT
+BEGIN:VEVENT
+UID:655546d5-a874-49a5-8daf-4f43543b3463
+SEQUENCE:0
+DTSTAMP:20250314T135126Z
+DTSTART:20250311T130000Z
+DTEND:20250311T170000Z
+SUMMARY:Safeguarding Operational Technology & IoT against the Purdue Model
+LOCATION:1 Principal Place\, London\, EC2A 2FA
+DESCRIPTION:SecureTech: Safeguarding Operational Technology & IoT against 
+ the Purdue Model\n\nhttps://aws-experience.com/emea/uki/e/65554/safeguardi
+ ng-operational-technology--iot-against-the-purdue-model
+CATEGORIES:Talk
+URL;VALUE=URI:https://aws-experience.com/emea/uki/e/65554/safeguarding-ope
+ rational-technology--iot-against-the-purdue-model
+X-TAGS:
+X-PRESENTER:Multiple presenters
+X-AUDIENCETYPES:Business
+X-LEVELS:200
+X-SETTING:Physical
+X-REGISTRATIONURL:
+CREATED:20250310T111730Z
+LAST-MODIFIED:20250314T134000Z
+END:VEVENT
+END:VCALENDAR
